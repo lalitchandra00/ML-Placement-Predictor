@@ -12,6 +12,6 @@ It achieves an accuracy of 100%, meaning it perfectly classifies the placement s
 <br>
 ## Technologies Used
 <ol>Python
-Jupyter Notebook
-Pandas & NumPy (for data handling)
-Scikit-learn (for building the model)
+<ol>Jupyter Notebook
+<ol>Pandas & NumPy (for data handling)
+<ol>Scikit-learn (for building the model)
