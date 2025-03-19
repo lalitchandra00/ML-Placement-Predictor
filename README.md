@@ -11,6 +11,7 @@ The model is implemented using Logistic Regression, a supervised learning algori
 It achieves an accuracy of 100%, meaning it perfectly classifies the placement status of students based on the given data.
 <br>
 ## Technologies Used
+<ul>
 Python
 Jupyter Notebook
 Pandas & NumPy (for data handling)
